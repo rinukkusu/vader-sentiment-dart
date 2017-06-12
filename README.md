@@ -6,7 +6,7 @@ Sentiment analysis using VADER with Dart.
 
 A simple usage example:
 
-'''dart
+```dart
 import 'package:vader_sentiment/vader_sentiment.dart';
 
 main() async {
@@ -18,7 +18,7 @@ main() async {
   print('positive: ${scores.positive}');
   print('compound: ${scores.compound}');
 }
-'''
+```
 
 ## Features and bugs
 
