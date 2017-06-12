@@ -1,4 +1,4 @@
-# vader_dart
+# vader_sentiment
 
 Sentiment analysis using VADER with Dart.
 
